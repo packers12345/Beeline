@@ -97,7 +97,12 @@ input_settings:
               L: [10]
               R: [3000]
               alphaMin: [0.0]
-
+              
+              
+        - name: 'TENET'
+        params:
+             should_run: [TRUE]
+             
 
         - name: "SINGE"
           params: 
